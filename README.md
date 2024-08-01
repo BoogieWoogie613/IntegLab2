@@ -60,4 +60,5 @@ How to acquire and change the API key when API uses are depleted in the system.
 3. Your newly created app should be reflected in the tab, click and copy paste your API key.
 4. Afterwards, go to the server.js file in the backend folder of the system project.
 5. Replace the 'apiKey' variable whenever the free trial usage is expired and in need of renewal.
-6. Rinse and Repeat.
+6. Delete the app and create another when that app has reached its limit uses.
+7. Rinse and Repeat #3-#6.
