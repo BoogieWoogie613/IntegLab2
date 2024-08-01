@@ -1,0 +1,53 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.weather-container,
+.hourly-container,
+.daily-container {
+  margin: 20px auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 600px;
+}
+
+.error {
+  color: red;
+}
+
+.weather-container img,
+.hourly-container img,
+.daily-container img {
+  max-width: 100px;
+}
+
+.daily-item,
+.hourly-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.daily-item img,
+.hourly-item img {
+  max-width: 30px;
+}
+
+.weather-icon {
+  max-width: 100px;
+  margin-top: 10px;
+}
+
+.my-4 {
+  margin: 16px 0;
+}
+
+.card {
+  padding: 16px;
+  margin-bottom: 16px;
+}
