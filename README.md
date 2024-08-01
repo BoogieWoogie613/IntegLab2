@@ -1,6 +1,6 @@
 Weather App using AccuWeather API
 
-A simple web application that allows the user to view the current, hourly, and 5 day forecast of selected Cities using City Name in the search bar. 
+A simple web application that allows the user to view the current, hourly, and 5 hour forecast of selected Cities using City Name in the search bar. 
 
 The web application uses:
 Frontend: React
